@@ -1,0 +1,5 @@
+{
+  "name": "PersonaSwap AI",
+  "description": "A high-fidelity AI tool to swap faces, hairstyles, and clothing from a target persona onto multiple source images while preserving the original scene, lighting, and style.",
+  "requestFramePermissions": []
+}
